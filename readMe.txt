@@ -1,0 +1,5 @@
+首先，执行SQL文件夹下的SQL语句建立数据库表
+然后修改config文件夹下的config.php中的数据库连接信息。
+管理员页面admin.php 默认用户名admin 密码admin
+如果管理员密码遗忘，使用sql工具在数据库后台将password修改为21232f297a57a5a743894a0e4a801fc3
+即默认密码“admin”
